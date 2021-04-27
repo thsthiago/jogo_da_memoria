@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/thsthiago/pomodoro.dev/blob/main/LICENSE">
-    <img alt="licence" src="https://img.shields.io/github/license/thsthiago/pomodoro.dev?label=license">
+    <img alt="licence" src="https://github.com/thsthiago/jogo_da_memoria/blob/master/LICENSE">
   </a>
 
   <a href="https://www.linkedin.com/in/thsthiago-cabral/">
