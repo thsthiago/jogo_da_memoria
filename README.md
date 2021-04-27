@@ -1,8 +1,4 @@
 <p align="center">
-  <a href="https://github.com/thsthiago/pomodoro.dev/blob/main/LICENSE">
-    <img alt="licence" src="https://github.com/thsthiago/jogo_da_memoria/blob/master/LICENSE">
-  </a>
-
   <a href="https://www.linkedin.com/in/thsthiago-cabral/">
     <img alt="Feito por Thiago Cabral" src="https://img.shields.io/badge/Feito%20por-Thiago%20Cabral-red">
   </a>
