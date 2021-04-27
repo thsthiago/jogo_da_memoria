@@ -27,7 +27,7 @@ Este é um dos [jogos de memórias](https://rachacuca.com.br/passatempos/jogo-da
 ### Web
 
 <p align="center">
-  <img alt="Demo pomodoradev" title="Demo pomodoradev" src="./github/tatakae.gif" width="500px">
+  <img alt="Tatakae!" title="Tatakae!" src="./github/tatakae.gif" width="500px">
 </p>
 
 ---
